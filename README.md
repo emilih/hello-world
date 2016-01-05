@@ -1,2 +1,3 @@
 # hello-world
-Repositorio de prueba
+Repositori de prova
+Estic escrivint en Valencià
